@@ -3,9 +3,9 @@
 ✌️ I'm Adithya Reddy. A dedicated and tech-savvy individual with a strong drive to learn new tools and technologies.
 
 - 🔭 I’m currently working on a webpage that I may launch soon.
-- 🌱 I’m currently learning about Python, data science, and software development.
-- 👯 I’m looking to collaborate on projects related to data science, software development, and Python code writing.
-- 🤔 I’m looking for help with enhancing my understanding of programming concepts and exploring advanced Python and Data Science topics.
+- 🌱 I’m currently learning about Advance Python.
+- 👯 I’m looking to collaborate on projects related to AI, ML, and Python code writing.
+- 🤔 I’m looking for help with enhancing my understanding of programming concepts and exploring advanced Python, AI and ML topics.
 - 💬 Ask me about the basics of Python, C, Java, operating systems, HTML, and computer architecture.
 - 📫 How to reach me: adithyareddytummala@gmail.com
 - 😄 Pronouns: He/Him
